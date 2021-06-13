@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **cloud projects**
 
-- 📝 I regularly write articles on [https://dhairya3124.hashnode.dev/](here.)
+- 📝 I regularly write articles on [here](https://dhairya3124.hashnode.dev/)
 
 - ⚡ Fun fact **I love to play Cricket.**
 
