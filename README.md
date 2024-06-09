@@ -1,4 +1,3 @@
-![Header](https://cutewallpaper.org/21/kavinsky-wallpaper/35+-Out-Run-4K-Wallpapers-Download-at-WallpaperBro.jpg)
 <h1 align="center">Hi 👋, I'm Dhairya Khanna</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
 
