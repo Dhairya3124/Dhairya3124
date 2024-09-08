@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Wikibase Complete**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **cloud projects**
 
